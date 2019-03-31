@@ -1,0 +1,20 @@
+{
+  "name": "canary_templates",
+  "version": "1.0.0",
+  "description": "React templates for the canary platform",
+  "main": "app.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "ANkit brahmbhatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^8.0.3",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
