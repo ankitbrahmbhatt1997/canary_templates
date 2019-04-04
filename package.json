@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "author": "ANkit brahmbhatt",
+  "author": "Ankit brahmbhatt",
   "license": "ISC",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
